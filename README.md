@@ -13,4 +13,4 @@ python get-pip.py
 opencv:
 pip3 install opencv-python
 
-The above install is not the full install of opencv, if you want the full install install it from source 
+The above install is not the full install of opencv, if you want the full install install it from source.
